@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Ediscovery"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ediscovery?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Ediscovery"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ediscovery?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ediscovery/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Ediscovery?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -65,9 +65,9 @@ Below is a comparative breakdown of leading enterprise E-Discovery SaaS solution
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore top self-hosted open-source e-discovery tools, forensic processing frameworks, and legal document review utilities sorted by **GitHub Star Count (Descending)** ⭐.
+Explore top self-hosted open-source e-discovery tools, forensic processing frameworks, and legal document review utilities sorted by **GitHub Stars_Count (Descending)** ⭐.
 
-| Project & Repo Link | Stars Badge | Description & Key Capabilities | License |
+| Project & Repo Link | Stars_Badge | Description & Key Capabilities | License |
 | :--- | :--- | :--- | :--- |
 | **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** | [<img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white" alt="Paperless-ngx Stars"/>](https://github.com/paperless-ngx/paperless-ngx/stargazers) | Open-source document management system that transforms physical/PDF legal files into searchable archive with OCR, tag management, and full-text search. | **GPL-3.0** |
 | **[Autopsy](https://github.com/sleuthkit/autopsy)** | [<img src="https://img.shields.io/github/stars/sleuthkit/autopsy?style=social&color=white" alt="Autopsy Stars"/>](https://github.com/sleuthkit/autopsy/stargazers) | The premier digital forensics platform and GUI interface for The Sleuth Kit. Used by legal investigators for timeline analysis, media carving, and evidence extraction. | **Apache-2.0** |
