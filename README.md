@@ -65,7 +65,7 @@ Below is a comparative breakdown of leading enterprise E-Discovery SaaS solution
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore top self-hosted open-source e-discovery tools, forensic processing frameworks, and legal document review utilities sorted by **GitHub Stars_Count (Descending)** ⭐.
+Explore top self-hosted open-source e-discovery tools, forensic processing frameworks, and legal document review utilities sorted by **GitHub_Stars_Count (Descending)** ⭐.
 
 | Project & Repo Link | Stars_Badge | Description & Key Capabilities | License |
 | :--- | :--- | :--- | :--- |
